@@ -1,4 +1,4 @@
-// se ena fakelo mesa to anoigete apo kapoio programa (visual studio code)
+// se ena keno fakelo mesa to anoigete apo kapoio programa (visual studio code)
 
 //kai kanete
 
