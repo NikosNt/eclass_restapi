@@ -1,4 +1,6 @@
-// se ena keno fakelo mesa to anoigete apo kapoio programa (visual studio code)
+//exontas katebasei to node.js kai egkatasthsh to open eclass sto pc
+
+// se ena adeio fakelo mesa to opoio anoigete apo kapoio programa (visual studio code)
 
 //kai kanete
 
@@ -11,6 +13,8 @@ npm i -g nodemon
 npm morgan
 
 npm i mysql
+
+//antigrafete to app.js mesa se auto to fakelo
 
 //h efarmofh trexei me 
 
